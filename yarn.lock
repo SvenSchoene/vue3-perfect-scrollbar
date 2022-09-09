@@ -1068,7 +1068,6 @@
     "jest-resolve" "^26.6.2"
     "jest-util" "^26.6.2"
     "jest-worker" "^26.6.2"
-    "node-notifier" "^8.0.0"
     "slash" "^3.0.0"
     "source-map" "^0.6.0"
     "string-length" "^4.0.1"
@@ -2563,7 +2562,6 @@
     "anymatch" "^2.0.0"
     "async-each" "^1.0.1"
     "braces" "^2.3.2"
-    "fsevents" "^1.2.7"
     "glob-parent" "^3.1.0"
     "inherits" "^2.0.3"
     "is-binary-path" "^1.0.0"
@@ -2582,7 +2580,6 @@
   dependencies:
     "anymatch" "~3.1.2"
     "braces" "~3.0.2"
-    "fsevents" "~2.3.2"
     "glob-parent" "~5.1.2"
     "is-binary-path" "~2.1.0"
     "is-glob" "~4.0.1"
@@ -3658,7 +3655,6 @@
     "estraverse" "^5.2.0"
     "esutils" "^2.0.2"
     "optionator" "^0.8.1"
-    "source-map" "~0.6.1"
   optionalDependencies:
     "source-map" "~0.6.1"
 
@@ -5651,7 +5647,6 @@
     "@types/node" "*"
     "anymatch" "^3.0.3"
     "fb-watchman" "^2.0.0"
-    "fsevents" "^2.1.2"
     "graceful-fs" "^4.2.4"
     "jest-regex-util" "^26.0.0"
     "jest-serializer" "^26.6.2"
@@ -6044,7 +6039,6 @@
   "resolved" "https://registry.npmjs.org/jsonfile/-/jsonfile-6.1.0.tgz"
   "version" "6.1.0"
   dependencies:
-    "graceful-fs" "^4.1.6"
     "universalify" "^2.0.0"
   optionalDependencies:
     "graceful-fs" "^4.1.6"
@@ -7216,9 +7210,8 @@
     "safe-buffer" "^5.0.1"
     "sha.js" "^2.4.8"
 
-"perfect-scrollbar@SvenSchoene/perfect-scrollbar#permanently-display-scrollbar-02":
-  "integrity" "sha512-vm4GNEzak9ocfb0+pOjhgx7oxORIwuUaf5fvbmZa36ejGYfn6eZthfv+aq265MemqhwIwVVIfE4bUYJP0ph+pw=="
-  "resolved" "git+ssh://git@github.com/SvenSchoene/perfect-scrollbar.git"
+"perfect-scrollbar@SvenSchoene/perfect-scrollbar#turbotask-01":
+  "resolved" "git+ssh://git@github.com/SvenSchoene/perfect-scrollbar.git#2ef9150c0339d816fd18fb0241daddd80e20d110"
   "version" "1.5.5"
 
 "performance-now@^2.1.0":
@@ -9803,10 +9796,8 @@
   "resolved" "https://registry.npmjs.org/watchpack/-/watchpack-1.7.5.tgz"
   "version" "1.7.5"
   dependencies:
-    "chokidar" "^3.4.1"
     "graceful-fs" "^4.1.2"
     "neo-async" "^2.5.0"
-    "watchpack-chokidar2" "^2.0.1"
   optionalDependencies:
     "chokidar" "^3.4.1"
     "watchpack-chokidar2" "^2.0.1"
